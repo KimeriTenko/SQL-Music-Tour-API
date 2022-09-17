@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "root",
+    "username": "postgres",
     "password": "postgres",
     "database": "music_tour",
     "host": "127.0.0.1",
@@ -8,14 +8,14 @@
     
   },
   "test": {
-    "username": "root",
+    "username": "postgres",
     "password": "postgres",
     "database": "music_tour_test",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
-    "username": "root",
+    "username": "postgres",
     "password": "postgres",
     "database": "music_tour_production",
     "host": "127.0.0.1",
